@@ -38,7 +38,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
+          ruby-version: 3.1 # ${{ matrix.ruby }}
           bundler-cache: true
 
       - name: Setup Node
