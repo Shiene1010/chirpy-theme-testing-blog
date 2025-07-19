@@ -49,5 +49,8 @@ jobs:
       - name: Build Assets
         run: npm i && npm run build
 
+      - name: Build Site with jekyll
+        run: bundle exec jekyll build
+
       - name: Test Site
         run: bash tools/test.sh
