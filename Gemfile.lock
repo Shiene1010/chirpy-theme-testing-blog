@@ -86,7 +86,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-chirpy (7.3.0)
+    jekyll-theme-chirpy (7.3.1)
       jekyll (~> 4.3)
       jekyll-archives (~> 2.2)
       jekyll-include-cache (~> 0.2)
@@ -95,7 +95,7 @@ GEM
       jekyll-sitemap (~> 1.4)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.13.0)
+    json (2.13.2)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
@@ -113,7 +113,7 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.4.1)
-    rouge (4.5.2)
+    rouge (4.6.0)
     safe_yaml (1.0.5)
     sass-embedded (1.89.2)
       google-protobuf (~> 4.31)
@@ -180,7 +180,7 @@ DEPENDENCIES
   jekyll-paginate (~> 1.1)
   jekyll-seo-tag (~> 2.7)
   jekyll-sitemap (~> 1.4)
-  jekyll-theme-chirpy (~> 7.0, >= 7.0.0)
+  jekyll-theme-chirpy (~> 7.3)
 
 BUNDLED WITH
    2.6.9
